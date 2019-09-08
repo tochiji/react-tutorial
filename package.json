@@ -1,0 +1,22 @@
+{
+  "name": "react-tutorial",
+  "version": "1.0.0",
+  "description": "Reactの個人チュートリアル用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tochiji/react-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tochiji/react-tutorial/issues"
+  },
+  "homepage": "https://github.com/tochiji/react-tutorial#readme",
+  "dependencies": {
+    "parcel": "^1.12.3"
+  }
+}
